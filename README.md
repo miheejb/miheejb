@@ -1,6 +1,7 @@
 MJ here.
-I am learning in web development.
-I am looking for collaborating basic HTML CSS and Java script
+I am exploring and learning Web development at the moment.
+Let's share our projects and grow together.
+
 
 <!---
 miheejb/miheejb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
